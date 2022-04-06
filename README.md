@@ -3,3 +3,4 @@ Trabajo de primer corte para el curso Fundamentos de la algoritmia - De Fabian G
 ## Franklin Martínez Ávila
 ## Fabian Gomez Franco
 ## Gilma Passos 
+## jesus romero 
