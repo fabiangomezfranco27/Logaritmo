@@ -17,7 +17,7 @@ La pagina de <b>contenidos</b> presentara atajos para navegar o redirigir al usu
 <hr>
 
 ### <i>Actividades:</i>
-La pagina de <b>actividades</b> presentara atajos para navegar o redirigir al usuario a las demas paginas, <b>actividades</b> estara destinada a
+La pagina de <b>actividades</b> presentara atajos para navegar o redirigir al usuario a las demas paginas, <b>actividades</b> estara destinada a las actividades a realizar para profundizar y practicar sobre el tema de Logaritmos. 
 <hr>
 
 ### <i>Evaluación:</i>
@@ -25,7 +25,7 @@ La pagina de <i><b>evaluacion</b></i> presentara atajos para navegar o redirigir
 <hr>
 
 ### <i>Créditos:</i>
-La pagina de <b>creditos</b> presentara atajos para navegar o redirigir al usuario a las demas paginas, <b>creditos</b> estara destinada a
+La pagina de <b>creditos</b> presentara atajos para navegar o redirigir al usuario a las demas paginas, <b>creditos</b> estara destinada para dar el respectivo credito a la persona y plataforma de la cual se extraera el contenido a tratr sobre los logaritmos.  
 <hr>
 
 ### <i>Material Complementario:</i>
