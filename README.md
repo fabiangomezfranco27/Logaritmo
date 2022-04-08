@@ -21,7 +21,7 @@ La pagina de <b>actividades</b> presentara atajos para navegar o redirigir al us
 <hr>
 
 ### Evaluación:
-La pagina de <b>evaluacion</b> presentara atajos para navegar o redirigir al usuario a las demas paginas, <b>evaluacion</b> estara destinada a
+La pagina de <i><b>evaluacion</b></i> presentara atajos para navegar o redirigir al usuario a las demas paginas, <b>evaluacion</b> estara destinada a presentar la evaluacion final sobre el tema, esta implementara puntos y temas relacionaos a los vistos en los paginas de contenidos y actividades. Esta Evaluacion sera evaluada en un rango de 0.0 a 5.0.
 <hr>
 
 ### Créditos:
