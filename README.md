@@ -8,7 +8,7 @@ El siguiente proyecto REDA esta destinado a ayudar personas a entender el uso de
 El objetivo sera logrado mediante el uso de contenidos de enseñanza, ejemplos, actividades, evaluacion e informacion variada. Estos seran presentados en 6 paginas, cada una con diferentes objetivos a presentar para el usuario, estas seran Inicio, Contenido, Actividades, Evaluación, Créditos y Material Complementario.
 Inicio:
 
-Contenido:
+### Contenido:
 
 Actividades:
 
