@@ -1,5 +1,6 @@
 # Logaritmo
 Trabajo de primer corte para el curso Fundamentos de la algoritmia Grupo B
+
 ## Franklin A. Docente
 ## - Fabian Gomez Franco
 ## - Gilma Passos 
@@ -29,6 +30,7 @@ La pagina de <b>creditos</b> presentara atajos para navegar o redirigir al usuar
 
 ### Material Complementario:
 La pagina de <b>materiales complementarios</b> presentara atajos para navegar o redirigir al usuario a las demas paginas, <b>materiales complementarios</b> estara destinada a
+<hr>
 
 ### Para qué sirve el REDA: 
 Los REDA son aquellos <b>recursos educativos</b> que  proveen un gran número y sin fin de material educativo e información digital a disposición de los estudiantes, cuerpo de docentes, etc. La  finalidad de los <b>REDA</b> son garantizar un buen desarrollo y desempeño en el ámbito académico para llevar a cabo diversas actividades con base a las herramientas del mismo.
