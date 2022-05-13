@@ -1,0 +1,17 @@
+header {
+    width: 3xp;
+}
+
+aside {
+    position: absolute;
+    width: 100px;
+    right: 0px;
+    top: 124px;
+    left: 1040px;
+    height: 590px;
+    border-radius: 15px;
+}
+
+nav {
+    width: 100%;
+}
