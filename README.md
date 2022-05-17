@@ -5,7 +5,7 @@ Trabajo de primer corte para el curso Fundamentos de la algoritmia Grupo B
 ## - Fabian Gomez Franco
 ## - Gilma Passos 
 ## - Jesus Romero 
-El siguiente proyecto REDA esta destinado a ayudar personas a entender el uso de los logaritmos, los logaritmos son exponentes a los que hay que elevar un número, llamado base, para obtener otro número determinado. 
+El siguiente proyecto REDA esta destinado a ser un apoyo para estdiantes del grado 8° de la institucion educativa Mercedes Abrego en su aprendizaje en el uso y resolucion de logaritmos, los logaritmos son exponentes a los que hay que elevar un número, llamado base, para obtener otro número determinado. 
 
 El objetivo sera logrado mediante el uso de contenidos de enseñanza, ejemplos, actividades, evaluacion e informacion variada. Estos seran presentados en 6 paginas, cada una con diferentes objetivos a presentar para el usuario, estas seran Inicio, Contenidos, Actividades, Evaluación, Créditos y Material Complementario.
 ### Inicio:
