@@ -60,3 +60,11 @@ a{
 a:visited{
   color: black;
 }
+footer{
+  margin-top: 20px;
+  background-color: rgb(210, 197, 255);
+  margin-right: 20%;
+  border: double black;
+  border-radius: 30px;
+  text-align: center;
+}
