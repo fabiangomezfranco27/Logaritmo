@@ -7,11 +7,18 @@ body{
 section{
   margin-top: 70px;
   background-color: white;
-  margin-left: 2%;
-  margin-right: 2%;
+  margin-right: 20%;
   padding: 3%;
   border: double 15px purple;
   border-radius: 30px;
+}
+aside{
+  background-color:white;
+  position: absolute;
+  top: 110px; right: 2%;
+  border: 1px;
+  border-radius: 20px;
+  z-index: 1;
 }
 .nv {
     display: flex;
@@ -26,12 +33,13 @@ section{
     font-size: 20px;
   }
   .nv>div:hover{
-    background-color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.137);
   }
 nav{
   position: sticky;
   top: 20px;
   height: 30px;
+  z-index: 2;
   }
 h1{
   color: red;
