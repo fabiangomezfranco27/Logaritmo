@@ -5,6 +5,7 @@ body{
   background-size: cover;
 }
 .nv {
+    width: 500px;
     display: flex;
     background-color: white;
     border: darkolivegreen;
