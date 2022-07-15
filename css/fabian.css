@@ -55,10 +55,18 @@ h1{
 }
 h2{
   font-weight: bold;
+  font-size: 30px;
 }
-.form{
+.forms{
+  color: blue;
+  font-size: 20px;
+  margin-left:20px;
+  margin-left: 40px;
+}
+.formb{
   color: blue;
   text-align: center;
+  font-size: 35px;
 }
 a{
   text-decoration: none;
