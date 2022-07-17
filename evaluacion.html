@@ -9,12 +9,12 @@
     <link rel="stylesheet" type="text/css" href="./css/fabian.css">
     <nav>
         <div class="nv">
-            <div><a href="./index.html">Inicio</a></div>
-            <div><a href="./contenidos.html">Contenidos</a></div>
-            <div><a href="./actividades.html">Actividades</a></div>
-            <div><a href="./evaluacion.html">Evaluación</a></div>
-            <div><a href="./creditos.html">Créditos</a></div>
-            <div><a href="./material_complementario.html">Material Compl.</a></div>
+            <a href="./index.html"><div>Inicio</div></a>
+            <a href="./contenidos.html"><div>Contenidos</div></a>
+            <a href="./actividades.html"><div>Actividades</div></a>
+            <a href="./evaluacion.html"><div>Evaluación</div></a>
+            <a href="./creditos.html"><div>Créditos</div>
+            <a href="./material_complementario.html"><div>Material Compl.</div></a>
     </nav> 
 </head>
 
@@ -24,10 +24,157 @@
         <h1>
             Apartado de evaluacion
         </h1>
+        <hr>
+        <p>
+            Cambia las expresiones logarítmicas dadas en expresiones exponenciales:
+        </p>
+        <br>
+        <br>
+        <table>
+            <tr>
+                <td style="text-align: center; width: 100px; padding: 10px;">#1</td>
+                <td style="width: 300px;">log <sub>x</sub> (a) = c</td>
+                <td>
+                    <select id="a" style="width: 110px;">
+                        <option value="f">x = c<sup>a</sup></option>
+                        <option value="v">a = x<sup>c</sup></option>
+                        <option value="f">c = x<sup>a</sup></option>
+                        <option value="f">a = c<sup>x</sup></option>
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: center; padding: 10px">#2</td>
+                <td>log <sub>b</sub> (2x + 1) = 3</td>
+                <td>
+                    <select id="b" style="width: 110px;">
+                        <option value="f">3 = 2x + 1<sup>b</sup></option>
+                        <option value="f">2x + 1 = 3<sup>b</sup></option>
+                        <option value="f">b = 2x + 1<sup>3</sup></option>
+                        <option value="v">2x + 1 = b<sup>3</sup></option>
+                </td>
+            </tr>
+        </table>
+        <hr>
+        <p>
+            Cambie las expresiones exponenciales dadas en expresiones logarítmicas:
+        </p>
+        <br>
+        <br>
+        <table>
+            <tr>
+                <td style="text-align: center; width: 100px; padding: 10px;">#3</td>
+                <td style="width: 300px;">3<sup>x</sup> = m</td>
+                <td>
+                    <select id="c" style="width: 110px;">
+                        <option value="f">log<sub>x</sub> (3) = m</option>
+                        <option value="f">log<sub>3</sub> (x) = m</option>
+                        <option value="f">log<sub>x</sub> (m) = 3</option>
+                        <option value="v">log<sub>3</sub> (m) = x</option>
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: center; padding: 10px;">#4</td>
+                <td>6<sup>3</sup> = 216</td>
+                <td>
+                    <select id="d" style="width: 110px;">
+                        <option value="f">218</option>
+                        <option value="f">√20</option>
+                        <option value="v">log<sub>6</sub> (216) = 3</option>
+                        <option value="f">log<sub>x</sub> (a) = 2</option>
+                </td>                
+            </tr>
+            <tr>
+                <td style="text-align: center; padding: 10px;">#5</td>
+                <td> x<sup>2</sup> = a</td>
+                <td>
+                    <select id="e" style="width: 110px;">
+                        <option value="f">log<sub>x</sub> (2) = a</option>
+                        <option value="f">log<sub>a</sub> (x) = a</option>
+                        <option value="f">log<sub>2</sub> (a) = x</option>
+                        <option value="v">log<sub>x</sub> (a) = 2</option>
+                </td>
+            </tr>
+        </table>
+        <hr>
+        <p>
+            Completar:
+        </p>
+        <br>
+        <br>
+        <table>
+            <tr>
+                <td style="text-align: center; width: 100px; padding: 10px;">#6</td>
+                <td style="width: 300px;">log <sup>4</sup>(64) = ?</td>
+                <td>
+                    <select id="f" style="width: 110px;">
+                        <option value="v">3</option>
+                        <option value="f">4</option>
+                        <option value="f">5</option>
+                        <option value="f">25</option>
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: center; padding: 10px;">#7</td>
+                <td>6<sup>3</sup> = 216</td>
+                <td>
+                    <select id="g" style="width: 110px;">
+                        <option value="f">log<sub>x</sub> (7) = 5</option>
+                        <option value="f">log<sub>x</sub> (5) = 7</option>
+                        <option value="f">log<sub>7</sub> (x) = 5</option>
+                        <option value="v">log<sub>5</sub> (7) = x</option>
+                </td>                
+            </tr>
+            <tr>
+                <td style="text-align: center; padding: 10px;">#8</td>
+                <td>Si log <sub>8</sub> (x) = 2 entonces x = ?</td>
+                <td>
+                    <select id="h" style="width: 110px;">
+                        <option value="f">1</option>
+                        <option value="f">3</option>
+                        <option value="f">16</option>
+                        <option value="v">64</option>
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: center; padding: 10px;">#9</td>
+                <td>Si log <sub>2</sub> (16) = 2 entonces x = ?</td>
+                <td>
+                    <select id="i" style="width: 110px;">
+                        <option value="f">1</option>
+                        <option value="f">7</option>
+                        <option value="f">15</option>
+                        <option value="v">4</option>
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: center; padding: 10px;">#10</td>
+                <td>Si log <sub>3</sub> (27) = 2 entonces x = ?</td>
+                <td>
+                    <select id="j" style="width: 110px;">
+                        <option value="f">1</option>
+                        <option value="v">3</option>
+                        <option value="f">16</option>
+                        <option value="f">6</option>
+                </td>
+            </tr>
+        </table>
+        <br>
+        <br>
+        <center>
+            <button onclick="calcular()">
+                <img src="./imagenes/ir.jpg" height="40px" width="60px">
+            </button>
+        </center>
+        <br>
+        <br>
+        <table border="3">
+            <th>Resultado operacion</th>
+            <tbody id="resultado"></tbody>
+        </table>    
     </section>
 
     <aside>
-        <img src="./imagenes/uni.png" height="900px">
+        <a href="https://www.unicordoba.edu.co/"> <img src="./imagenes/uni.png" height="900px"></a>  
     </aside>
 
     <footer>
@@ -37,4 +184,5 @@
     </footer>
 
 </body>
+<script src="./js/jse.js"></script>
 </html>
