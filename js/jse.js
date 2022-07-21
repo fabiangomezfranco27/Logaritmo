@@ -12,64 +12,74 @@ function calcular(){
     var acertadas = 0;
 
 switch(a){
-    case "v": r='Correcto'; acertadas++; break;
-    default: r='Incorrecto'; break;
+    case "v": r='<span style="color: green;">Correcto</span>'; acertadas++; break;
+    case "n": r='<span style="color: orange;">No respondido</span>'; break;
+    default: r='<span style="color: red;">Incorrecto</span>'; break;
 }
 document.getElementById("ra").innerHTML=r;
 
 switch(b){
-    case "v": r='Correcto'; acertadas++; break;
-    default: r='Incorrecto'; break;
+    case "v": r='<span style="color: green;">Correcto</span>'; acertadas++; break;
+    case "n": r='<span style="color: orange;">No respondido</span>'; break;
+    default: r='<span style="color: red;">Incorrecto</span>'; break;
 }
 document.getElementById("rb").innerHTML=r;
 
 switch(c){
-    case "v": r='Correcto'; acertadas++; break;
-    default: r='Incorrecto'; break;
+    case "v": r='<span style="color: green;">Correcto</span>'; acertadas++; break;
+    case "n": r='<span style="color: orange;">No respondido</span>'; break;
+    default: r='<span style="color: red;">Incorrecto</span>'; break;
 }
 document.getElementById("rc").innerHTML=r;
 
 switch(d){
-    case "v": r='Correcto'; acertadas++; break;
-    default: r='Incorrecto'; break;
+    case "v": r='<span style="color: green;">Correcto</span>'; acertadas++; break;
+    case "n": r='<span style="color: orange;">No respondido</span>'; break;
+    default: r='<span style="color: red;">Incorrecto</span>'; break;
 }
 document.getElementById("rd").innerHTML=r;
 
 switch(e){
-    case "v": r='Correcto'; acertadas++; break;
-    default: r='Incorrecto'; break;
+    case "v": r='<span style="color: green;">Correcto</span>'; acertadas++; break;
+    case "n": r='<span style="color: orange;">No respondido</span>'; break;
+    default: r='<span style="color: red;">Incorrecto</span>'; break;
 }
 document.getElementById("re").innerHTML=r;
 
 switch(f){
-    case "v": r='Correcto'; acertadas++; break;
-    default: r='Incorrecto'; break;
+    case "v": r='<span style="color: green;">Correcto</span>'; acertadas++; break;
+    case "n": r='<span style="color: orange;">No respondido</span>'; break;
+    default: r='<span style="color: red;">Incorrecto</span>'; break;
 }
 document.getElementById("rf").innerHTML=r;
 
 switch(g){
-    case "v": r='Correcto'; acertadas++; break;
-    default: r='Incorrecto'; break;
+    case "v": r='<span style="color: green;">Correcto</span>'; acertadas++; break;
+    case "n": r='<span style="color: orange;">No respondido</span>'; break;
+    default: r='<span style="color: red;">Incorrecto</span>'; break;
 }
 document.getElementById("rg").innerHTML=r;
 
 switch(h){
-    case "v": r='Correcto'; acertadas++; break;
-    default: r='Incorrecto'; break;
+    case "v": r='<span style="color: green;">Correcto</span>'; acertadas++; break;
+    case "n": r='<span style="color: orange;">No respondido</span>'; break;
+    default: r='<span style="color: red;">Incorrecto</span>'; break;
 }
 document.getElementById("rh").innerHTML=r;
 
 switch(i){
-    case "v": r='Correcto'; acertadas++; break;
-    default: r='Incorrecto'; break;
+    case "v": r='<span style="color: green;">Correcto</span>'; acertadas++; break;
+    case "n": r='<span style="color: orange;">No respondido</span>'; break;
+    default: r='<span style="color: red;">Incorrecto</span>'; break;
 }
 document.getElementById("ri").innerHTML=r;
 
 switch(j){
-    case "v": r='Correcto'; acertadas++; break;
-    default: r='Incorrecto'; break;
+    case "v": r='<span style="color: green;">Correcto</span>'; acertadas++; break;
+    case "n": r='<span style="color: orange;">No respondido</span>'; break;
+    default: r='<span style="color: red;">Incorrecto</span>'; break;
 }
 document.getElementById("rj").innerHTML=r;
 
-document.getElementById("nota").innerHTML=(acertadas/2);
+document.getElementById("nota").innerHTML=(acertadas/2).toFixed(1);
 }
